@@ -33,9 +33,6 @@ As you navigate the world of Ethereum validator node management and maintenance,
 1. **Ethereum Upgrades and Fork Monitoring:** Stay informed about upcoming Ethereum network upgrades and hard forks to ensure timely updates to your validator node.
    - [Ethereum.org Upgrade Announcements](https://ethereum.org/en/upgrades/)
 
-2. **Ethereum Node Version Managers:** Use version managers to easily update and switch between different Ethereum client versions.
-   - [EVM (Ethereum Version Manager)](https://github.com/ethereum/evm)
-
 ## Troubleshooting and Support
 
 1. **Ethereum Stack Exchange:** Ask and answer technical questions related to Ethereum validator nodes and network operations.
