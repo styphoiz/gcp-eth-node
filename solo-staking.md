@@ -41,5 +41,33 @@ While your validator is active, you will earn ETH rewards, which will be periodi
 
 If desired, you can exit as a validator, which eliminates the requirement to be online and stops further rewards. Your remaining balance will then be withdrawn to the designated withdrawal address you specified during setup.
 
+## Frequently Asked Questions
 
+### What is a Validator?
+
+A validator is a virtual entity that participates in the consensus of the Ethereum protocol. Validators are represented by a balance, public key, and other properties. A validator client is the software that acts on behalf of the validator by holding and using its private key. A single validator client can control many validators.
+
+### Can I Deposit More Than 32 ETH?
+
+Each key-pair associated with a validator requires exactly 32 ETH to be activated. More ETH deposited to a single set of keys does not increase rewards potential, as each validator is limited to an effective balance of 32 ETH. This means that staking is done in 32 ETH increments, each with its own set of keys and balance. Do not deposit more than 32 ETH for a single validator. Excess funds over 32 ETH will be automatically withdrawn to the withdrawal address during the next validator sweep.
+
+### Will I Be Slashed if I Go Offline?
+
+Going offline when the network is finalizing properly will NOT result in slashing. Small inactivity penalties are incurred if your validator is not available to attest for a given epoch, but this is different from slashing. Penalties for inactivity are proportional to how many validators are offline at the same time. In cases where a large portion of the network is all offline at once, the penalties for each of these validators will be greater than when a single validator is unavailable.
+
+### How Do I Ensure I Don't Get Slashed?
+
+Act in good faith, run a minority client, and keep your signing keys on one machine at a time to minimize the risk of getting slashed. Only a few specific ways can result in a validator getting slashed, such as redundant hardware setups where signing keys are stored on two separate machines at once.
+
+### Which Client is Best?
+
+All production clients perform the same core functions to sync and interact with the blockchain. Choose a minority client, meaning any client that is NOT currently being used by a majority of validators on the network, to reduce the risk of slashing in the event of a bug.
+
+### Can I Just Use a VPS (Virtual Private Server)?
+
+While a VPS can be used, the physical access and location of your validator client matter. Centralized cloud solutions centralize the network and increase the risk of penalties in case of outages.
+
+### How Do I Unlock My Rewards or Get My ETH Back?
+
+Withdrawals from the Beacon Chain require withdrawal credentials to be set. Reward payments will be periodically distributed to the withdrawal address automatically. To receive your entire balance back, you must complete the process of exiting your validator.
 
