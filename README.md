@@ -13,7 +13,7 @@ Google Cloud is looking for experienced blockchain developers to create a compre
     - [What is Staking?](#what-is-staking)
     - [Why Stake Your ETH?](#why-stake-your-eth)
     - [How to Stake Your ETH](#how-to-stake-your-eth)
-        - [Solo Home Staking](#solo-home-staking)
+        - [Solo Staking](#solo-staking)
         - [Staking as a Service](#staking-as-a-service)
         - [Pooled Staking](#pooled-staking)
         - [Centralized Exchanges](#centralized-exchanges)
