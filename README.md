@@ -99,8 +99,8 @@ Pooled staking is not native to the Ethereum network. Third parties are building
 
 ### Centralized Exchanges
 
-#### Least Impactful
-#### Highest Trust Assumptions
+- Least Impactful
+- Highest Trust Assumptions
 
 Many centralized exchanges provide staking services if you are not yet comfortable holding ETH in your own wallet. They can be a fallback to allow you to earn some yield on your ETH holdings with minimal oversight or effort.
 
@@ -129,7 +129,6 @@ There is no one-size-fits-all solution for staking, and each is unique. Here we'
 #### Requirements
 - You must deposit 32 ETH
 - Maintain hardware that runs both an Ethereum execution client and consensus client while connected to the internet
-- The Staking Launchpad will walk you through the process and hardware requirements
 
 ### Staking as a Service
 
