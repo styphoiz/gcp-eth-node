@@ -1,6 +1,6 @@
 # Ethereum Validator Node Setup Guide using Google Cloud
 
-Attention all developers! Are you ready to take your Web3 projects to the next level? We're excited to announce this bounty that challenges you to explore the untapped potential of Google Cloud's features and tools for Web3 development. Despite the wealth of powerful capabilities offered by Google Cloud, few of these features are currently being utilized within the context of Web3. This is where you come in!
+Attention all developers! Are you ready to take your Web3 projects to the next level? Despite the wealth of powerful capabilities offered by Google Cloud, few of these features are currently being utilized within the context of Web3. This is where you come in!
 
 Here is a comprehensive, step-by-step guide on setting up and running an Ethereum validator node using Google Cloud’s infrastructure.
 
