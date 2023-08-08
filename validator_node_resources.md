@@ -40,7 +40,6 @@ As you navigate the world of Ethereum validator node management and maintenance,
 
 2. **Community Forums and Social Media:** Engage with the Ethereum community and seek assistance on platforms such as Reddit, Discord, and Twitter.
    - [Ethereum Reddit](https://www.reddit.com/r/ethereum/)
-   - [Ethereum Discord](https://discord.gg/7JYrW3m)
 
 Remember that the Ethereum ecosystem is continually evolving, and staying up-to-date with the latest developments and tools is essential for effective node management and maintenance.
 
