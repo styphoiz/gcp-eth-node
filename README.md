@@ -58,10 +58,10 @@ It all depends on how much you are willing to stake. You'll need 32 ETH to activ
 
 ### Solo Staking
 
--Most Impactful
--Full Control
--Full Rewards
--Trustless
+-Most Impactful 
+-Full Control 
+-Full Rewards 
+-Trustless 
 
 Solo staking on Ethereum is the gold standard for staking. It provides full participation rewards, improves the decentralization of the network, and never requires trusting anyone else with your funds.
 
@@ -70,9 +70,9 @@ Those considering solo staking should have at least 32 ETH and a dedicated compu
 
 ### Staking as a Service
 
--Your 32 ETH
--Your Validator Keys
--Entrusted Node Operation
+-Your 32 ETH 
+-Your Validator Keys 
+-Entrusted Node Operation 
 
 If you don't want or don't feel comfortable dealing with hardware but still want to stake your 32 ETH, staking-as-a-service options allow you to delegate the hard part while you earn native block rewards.
 
@@ -83,9 +83,9 @@ This method of staking requires a certain level of trust in the provider. To lim
   
 ### Pooled Staking
 
--Stake Any Amount
--Earn Rewards
--Keep It Simple
+-Stake Any Amount 
+-Earn Rewards 
+-Keep It Simple 
 -Popular
 
 Several pooling solutions now exist to assist users who do not have or feel comfortable staking 32 ETH.
