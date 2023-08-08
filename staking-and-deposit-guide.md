@@ -10,7 +10,7 @@ Staking on the Ethereum network requires a minimum deposit of 32 ETH to become a
 
 ## Step 2: Generating and Securing Keys
 
-1. **Generate Validator Keys**: Use staking tools like [Prysm](https://docs.prylabs.network/docs/how-prysm-works/validator-keys/) to generate validator keys: validator public key, withdrawal public key, and signature.
+1. **Generate Validator Keys**: Use staking tools like Prysm to generate validator keys: validator public key, withdrawal public key, and signature.
 
 2. **Backup Keys**: Safely back up validator keys offline in a secure location to prevent loss.
 
@@ -18,7 +18,7 @@ Staking on the Ethereum network requires a minimum deposit of 32 ETH to become a
 
 1. **Install a Wallet**: Set up an Ethereum wallet (MetaMask, MyEtherWallet) supporting smart contract interaction. Ensure it has enough ETH for gas fees.
 
-2. **Access Ethereum 2.0 Launchpad**: Visit [Ethereum 2.0 Launchpad](https://launchpad.ethereum.org/).
+2. **Access Ethereum 2.0 Launchpad**: Visit Ethereum 2.0 Launchpad.
 
 3. **Deposit Contract Interaction**: Connect wallet to Launchpad. Follow prompts to interact with Ethereum 2.0 deposit contract.
 
