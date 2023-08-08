@@ -6,7 +6,7 @@ When setting up and operating an Ethereum validator node, one of the critical de
 
 In the Ethereum ecosystem, nodes run software applications known as clients. These clients are responsible for validating transactions, proposing blocks, executing smart contracts, and maintaining the network's integrity. Ethereum nodes consist of two main components: the consensus client and the execution client.
 
-- **Consensus Client:** This client participates in the consensus mechanism of the Ethereum network. It verifies blocks, ensures adherence to protocol rules, and contributes to network security. After [The Merge](/roadmap/merge), both consensus and execution clients are required to gain access to the Ethereum network.
+- **Consensus Client:** This client participates in the consensus mechanism of the Ethereum network. It verifies blocks, ensures adherence to protocol rules, and contributes to network security. After the merge, both consensus and execution clients are required to gain access to the Ethereum network.
 
 - **Execution Client:** Also known as the Execution Engine (EL client) or formerly the Eth1 client, this component processes transactions and executes smart contracts. It maintains the latest state and database of all Ethereum data.
 
