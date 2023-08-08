@@ -1,6 +1,6 @@
-## More on Solo Staking
+# More on Solo Staking
 
-### What is Solo Staking?
+## What is Solo Staking?
 
 Solo staking involves running an Ethereum node connected to the internet and depositing 32 ETH to become a validator. This allows you to directly participate in the Ethereum network's consensus mechanism.
 
@@ -10,13 +10,13 @@ An Ethereum node consists of an execution layer (EL) client and a consensus laye
 
 As a solo staker, you are responsible for maintaining the hardware required to run these clients. Using a dedicated machine at home is recommended to ensure the network's health.
 
-### Benefits of Solo Staking
+## Benefits of Solo Staking
 
 - 💸 Earn Fresh ETH: Receive ETH rewards directly from the protocol when your validator is online, without intermediaries.
 - 🎛️ Full Control: Retain ownership of your keys and choose the combination of clients and hardware that minimizes risk and contributes to network health.
 - 🔐 Network Security: Solo staking significantly enhances network robustness, decentralization, and security by running a validator on your hardware at home.
 
-### Considerations Before Solo Staking
+## Considerations Before Solo Staking
 
 While solo staking offers significant advantages, it comes with added responsibility. Before choosing solo staking for your ETH, consider the following:
 
@@ -27,7 +27,7 @@ While solo staking offers significant advantages, it comes with added responsibi
 - **Reliable Uptime**: Ensure consistent uptime for your validator to maximize rewards.
 - **Slashing Risk**: Understand the penalties and risks associated with validator misbehavior.
 
-### How it Works
+## How it Works
 
 Here's a step-by-step guide on how solo staking works:
 
@@ -70,4 +70,3 @@ While a VPS can be used, the physical access and location of your validator clie
 ### How Do I Unlock My Rewards or Get My ETH Back?
 
 Withdrawals from the Beacon Chain require withdrawal credentials to be set. Reward payments will be periodically distributed to the withdrawal address automatically. To receive your entire balance back, you must complete the process of exiting your validator.
-
