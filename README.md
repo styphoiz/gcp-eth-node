@@ -8,14 +8,14 @@ Google Cloud is looking for experienced blockchain developers to create a compre
 
 1. [Introduction](#introduction)
 2. [Validator Nodes in Ethereum](#validator-nodes-in-ethereum)
-    - [What is Staking?](#what-is-staking)
-    - [Why Stake Your ETH?](#why-stake-your-eth)
-    - [How to Stake Your ETH](#how-to-stake-your-eth)
-        - [Solo Staking](#solo-staking)
-        - [Staking as a Service](#staking-as-a-service)
-        - [Pooled Staking](#pooled-staking)
-        - [Centralized Exchanges](#centralized-exchanges)
-    - [Comparison of Staking Options](#comparison-of-staking-options)
+   - [What is Staking?](#what-is-staking)
+   - [Why Stake Your ETH?](#why-stake-your-eth)
+   - [How to Stake Your ETH](#how-to-stake-your-eth)
+     - [Solo Staking](#solo-staking)
+     - [Staking as a Service](#staking-as-a-service)
+     - [Pooled Staking](#pooled-staking)
+     - [Centralized Exchanges](#centralized-exchanges)
+   - [Comparison of Staking Options](#comparison-of-staking-options)
 3. [Hardware and Software Requirements](#hardware-and-software-requirements)
 4. [Choosing Consensus and Execution Clients](#choosing-consensus-and-execution-clients)
 5. [Installation and Configuration](#installation-and-configuration)
@@ -25,7 +25,6 @@ Google Cloud is looking for experienced blockchain developers to create a compre
 9. [Managing Withdrawal Accounts](#managing-withdrawal-accounts)
 10. [Resources and Tools](#resources-and-tools)
 11. [Join the Discussion](#join-the-discussion)
-
 
 ## Introduction
 
@@ -38,8 +37,6 @@ Validator nodes play a crucial role in the Ethereum network. They are responsibl
 ## What is Staking?
 
 Staking is the act of depositing 32 ETH to activate validator software. As a validator, you'll be responsible for storing data, processing transactions, and adding new blocks to the blockchain. This contributes to keeping Ethereum secure for everyone and earns you new ETH in the process.
-
-Learn how to get ETH
 
 ## Why Stake Your ETH?
 
@@ -54,8 +51,6 @@ The network gets stronger against attacks as more ETH is staked, as it then requ
 ### 🍃 More Sustainable
 
 Stakers don't need to do energy-intensive proof-of-work computations to participate in securing the network. Staking nodes can run on relatively modest hardware using very little energy.
-
-More on Ethereum's energy consumption
 
 ## How to Stake Your ETH
 
@@ -187,9 +182,9 @@ The choice of consensus and execution clients is a crucial decision in setting u
 
 Follow these steps to install and configure your Ethereum validator node:
 
-1. Step 1.
-2. Step 2.
-3. ...
+1. [blockchain_node_engine_setup_guide.md](blockchain_node_engine_setup_guide.md)
+2. [ethereum_consensus_execution_clients.md](ethereum_consensus_execution_clients.md)
+3. [google_cloud_blockchain_node_management_guide.md](google_cloud_blockchain_node_management_guide.md)
 
 ## Acquiring 32 ETH for Staking
 
