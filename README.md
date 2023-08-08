@@ -6,8 +6,18 @@ Google Cloud is looking for experienced blockchain developers to create a compre
 
 ## Table of Contents
 
+## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Validator Nodes in Ethereum](#validator-nodes-in-ethereum)
+    - [What is Staking?](#what-is-staking)
+    - [Why Stake Your ETH?](#why-stake-your-eth)
+    - [How to Stake Your ETH](#how-to-stake-your-eth)
+        - [Solo Home Staking](#solo-home-staking)
+        - [Staking as a Service](#staking-as-a-service)
+        - [Pooled Staking](#pooled-staking)
+        - [Centralized Exchanges](#centralized-exchanges)
+    - [Comparison of Staking Options](#comparison-of-staking-options)
 3. [Hardware and Software Requirements](#hardware-and-software-requirements)
 4. [Choosing Consensus and Execution Clients](#choosing-consensus-and-execution-clients)
 5. [Installation and Configuration](#installation-and-configuration)
@@ -16,6 +26,8 @@ Google Cloud is looking for experienced blockchain developers to create a compre
 8. [Security, Uptime, and Performance](#security-uptime-and-performance)
 9. [Managing Withdrawal Accounts](#managing-withdrawal-accounts)
 10. [Resources and Tools](#resources-and-tools)
+11. [Join the Discussion](#join-the-discussion)
+
 
 ## Introduction
 
