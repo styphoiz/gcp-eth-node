@@ -6,8 +6,6 @@ Google Cloud is looking for experienced blockchain developers to create a compre
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction](#introduction)
 2. [Validator Nodes in Ethereum](#validator-nodes-in-ethereum)
     - [What is Staking?](#what-is-staking)
