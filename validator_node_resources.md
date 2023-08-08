@@ -8,7 +8,7 @@ As you navigate the world of Ethereum validator node management and maintenance,
    - [Ethereum Official Documentation](https://ethereum.org/en/developers/docs/)
 
 2. **Google Cloud Blockchain Node Engine Documentation:** The documentation offers detailed instructions for using Google Cloud Blockchain Node Engine to deploy, manage, and monitor your Ethereum validator nodes.
-   - [Google Cloud Blockchain Node Engine Documentation](https://cloud.google.com/blockchain/docs)
+   - [Google Cloud Blockchain Node Engine Documentation](https://cloud.google.com/blockchain-node-engine/docs)
 
 ## Monitoring and Performance Tools
 
