@@ -45,6 +45,15 @@ While your validator is active, you will earn ETH rewards, which will be periodi
 
 If desired, you can exit as a validator, which eliminates the requirement to be online and stops further rewards. Your remaining balance will then be withdrawn to the designated withdrawal address you specified during setup.
 
+## Comparison with Other Options
+### Staking as a Service (SaaS)
+When using Staking as a Service (SaaS) providers, you are still required to deposit 32 ETH, but you don't have to run your own hardware. Typically, you maintain access to your validator keys, but you also need to share your signing keys with the operator who will act on behalf of your validator. This introduces a layer of trust that is not present when running your own hardware. Additionally, unlike solo staking at home, SaaS does not contribute as much to the geographic distribution of nodes on the network. If you're uncomfortable with hardware management but still want to stake 32 ETH, using a SaaS provider could be a suitable option for you.
+
+### Pooled Staking
+Compared to solo staking, pooled staking is less involved but offers some trade-offs. With pooled staking, you have full access to ETH rewards and control over the setup and security of your validator, but the barrier to entry is significantly lower. Users can stake smaller amounts of ETH, are not required to generate validator keys, and have no hardware requirements beyond a standard internet connection. Liquidity tokens also enable the ability to exit from staking before this is enabled at the protocol level. If these features align with your preferences, pooled staking might be a good fit.
+
+As you continue to evaluate your staking options, consider the level of control, trust, and complexity that aligns with your goals and comfort level. Each approach has its advantages and trade-offs, so make sure to choose the option that best suits your needs and priorities.
+
 ## Frequently Asked Questions
 
 ### What is a Validator?
@@ -74,12 +83,3 @@ While a VPS can be used, the physical access and location of your validator clie
 ### How Do I Unlock My Rewards or Get My ETH Back?
 
 Withdrawals from the Beacon Chain require withdrawal credentials to be set. Reward payments will be periodically distributed to the withdrawal address automatically. To receive your entire balance back, you must complete the process of exiting your validator.
-
-## Comparison with Other Options
-### Staking as a Service (SaaS)
-When using Staking as a Service (SaaS) providers, you are still required to deposit 32 ETH, but you don't have to run your own hardware. Typically, you maintain access to your validator keys, but you also need to share your signing keys with the operator who will act on behalf of your validator. This introduces a layer of trust that is not present when running your own hardware. Additionally, unlike solo staking at home, SaaS does not contribute as much to the geographic distribution of nodes on the network. If you're uncomfortable with hardware management but still want to stake 32 ETH, using a SaaS provider could be a suitable option for you.
-
-### Pooled Staking
-Compared to solo staking, pooled staking is less involved but offers some trade-offs. With pooled staking, you have full access to ETH rewards and control over the setup and security of your validator, but the barrier to entry is significantly lower. Users can stake smaller amounts of ETH, are not required to generate validator keys, and have no hardware requirements beyond a standard internet connection. Liquidity tokens also enable the ability to exit from staking before this is enabled at the protocol level. If these features align with your preferences, pooled staking might be a good fit.
-
-As you continue to evaluate your staking options, consider the level of control, trust, and complexity that aligns with your goals and comfort level. Each approach has its advantages and trade-offs, so make sure to choose the option that best suits your needs and priorities.
