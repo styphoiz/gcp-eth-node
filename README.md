@@ -73,6 +73,7 @@ It all depends on how much you are willing to stake. You'll need 32 ETH to activ
 Solo staking on Ethereum is the gold standard for staking. It provides full participation rewards, improves the decentralization of the network, and never requires trusting anyone else with your funds.
 
 Those considering solo staking should have at least 32 ETH and a dedicated computer connected to the internet ~24/7. Some technical know-how is helpful, but easy-to-use tools now exist to help simplify this process.
+- [more on Solo Staking](solo-staking.md) 
 
 ### Staking as a Service
 
@@ -85,7 +86,8 @@ If you don't want or don't feel comfortable dealing with hardware but still want
 These options usually walk you through creating a set of validator credentials, uploading your signing keys to them, and depositing your 32 ETH. This allows the service to validate on your behalf.
 
 This method of staking requires a certain level of trust in the provider. To limit counter-party risk, the keys to withdrawal your ETH are usually kept in your possession.
-
+- [more on Staking as a Service](staking-service.md)
+  
 ### Pooled Staking
 
 #### Stake Any Amount
@@ -100,6 +102,7 @@ Many of these options include what is known as 'liquid staking' which involves a
 Liquid staking enables easy and anytime exiting and makes staking as simple as a token swap. This option also allows users to hold custody of their assets in their own Ethereum wallet.
 
 Pooled staking is not native to the Ethereum network. Third parties are building these solutions, and they carry their own risks.
+- [more on Pooled Staking](pooled-staking.md) 
 
 ### Centralized Exchanges
 
