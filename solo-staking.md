@@ -1,5 +1,11 @@
 # More on Solo Staking
 
+## Why Solo Staking?
+
+- Receive maximum rewards directly from the protocol for keeping your validator properly functioning and online
+- Run home hardware and personally add to the security and decentralization of the Ethereum network
+- Remove trust, and never give up control of the keys to your funds
+
 ## What is Solo Staking?
 
 Solo staking involves running an Ethereum node connected to the internet and depositing 32 ETH to become a validator. This allows you to directly participate in the Ethereum network's consensus mechanism.
