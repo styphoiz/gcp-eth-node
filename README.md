@@ -2,7 +2,7 @@
 
 Attention all developers! Are you ready to take your Web3 projects to the next level? We're excited to announce this bounty that challenges you to explore the untapped potential of Google Cloud's features and tools for Web3 development. Despite the wealth of powerful capabilities offered by Google Cloud, few of these features are currently being utilized within the context of Web3. This is where you come in!
 
-Google Cloud is looking for experienced blockchain developers to create a comprehensive, step-by-step guide on setting up and running an Ethereum validator node using Google Cloud’s infrastructure. The guide should be easy to understand and reproduce for users that wish to help secure Ethereum on Google Cloud.
+Here is a comprehensive, step-by-step guide on setting up and running an Ethereum validator node using Google Cloud’s infrastructure.
 
 ## Table of Contents
 
