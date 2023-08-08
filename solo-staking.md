@@ -1,3 +1,5 @@
+# Solo Staking
+
 ## Why Solo Staking?
 
 - Receive maximum rewards directly from the protocol for keeping your validator properly functioning and online
