@@ -23,7 +23,6 @@ As you navigate the world of Ethereum validator node management and maintenance,
 
 1. **Firewall Rules and Security Groups:** Learn how to configure network access and security rules to protect your validator node from unauthorized access.
    - [Google Cloud Firewall Rules](https://cloud.google.com/vpc/docs/firewalls)
-   - [Amazon EC2 Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 
 2. **Vulnerability Scanners:** Implement regular vulnerability scanning and security assessments to identify and address potential security risks.
    - [OpenVAS](https://www.openvas.org/)
