@@ -108,7 +108,7 @@ The trade-off here is that centralized providers consolidate large pools of ETH 
 
 If you don't feel comfortable holding your own keys, that's okay. These options are here for you. In the meantime, consider checking out our wallets page, where you can get started learning how to take true ownership over your funds. When you're ready, come back and level up your staking game by trying one of the self-custody pooled staking services offered.
 
-As you may have noticed, there are many ways to participate in Ethereum staking. These paths target a wide range of users and ultimately are each unique and vary in terms of risks, rewards, and trust assumptions. Some are more decentralized, battle-tested, and/or risky than others. We provide some information on popular projects in the space, but always do your own research before sending ETH anywhere.
+As you may have noticed, there are many ways to participate in Ethereum staking. These paths target a wide range of users and ultimately are each unique and vary in terms of risks, rewards, and trust assumptions. Some are more decentralized, battle-tested, and/or risky than others. Always do your own research before sending ETH anywhere.
 
 ## Comparison of Staking Options
 
