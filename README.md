@@ -24,7 +24,6 @@ Here is a comprehensive, step-by-step guide on setting up and running an Ethereu
 8. [Security, Uptime, and Performance](#security-uptime-and-performance)
 9. [Managing Withdrawal Accounts](#managing-withdrawal-accounts)
 10. [Resources and Tools](#resources-and-tools)
-11. [Join the Discussion](#join-the-discussion)
 
 ## Introduction
 
